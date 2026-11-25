@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-label="Ảnh minh hoạ khu vực THPT Bắc Bình">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#be123c" />
+      <stop offset="55%" stop-color="#4c0519" />
+      <stop offset="100%" stop-color="#fb7185" stop-opacity="0.9" />
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="18%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="lines" width="64" height="64" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="64" stroke="#ffffff" stroke-opacity="0.055" stroke-width="2" />
+    </pattern>
+  </defs>
+  <rect width="1600" height="700" fill="url(#bg)" />
+  <rect width="1600" height="700" fill="url(#lines)" />
+  <rect width="1600" height="700" fill="url(#glow)" />
+  <circle cx="1330" cy="120" r="220" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="1430" cy="250" r="320" fill="#ffffff" fill-opacity="0.04" />
+  <g transform="translate(1120 370) scale(1.15)">
+    <g opacity="0.5" fill="none" stroke="#ffffff" stroke-width="8" stroke-linejoin="round">
+      <path d="M-170 130 L-170 -30 L-90 -80 L-10 -30 L-10 130 Z" />
+      <path d="M10 130 L10 -10 L90 -55 L170 -10 L170 130 Z" />
+      <g stroke-width="6">
+        <rect x="-140" y="-5" width="34" height="34" rx="4" />
+        <rect x="-86" y="-5" width="34" height="34" rx="4" />
+        <rect x="-140" y="54" width="34" height="34" rx="4" />
+        <rect x="-86" y="54" width="34" height="34" rx="4" />
+        <rect x="40" y="20" width="34" height="34" rx="4" />
+        <rect x="104" y="20" width="34" height="34" rx="4" />
+        <rect x="40" y="80" width="34" height="34" rx="4" />
+        <rect x="104" y="80" width="34" height="34" rx="4" />
+      </g>
+      <path d="M-60 130 L-60 70 L-20 70 L-20 130" />
+      <path d="M62 130 L62 78 L118 78 L118 130" />
+    </g></g>
+  <g font-family="'Be Vietnam Pro', 'Segoe UI', Arial, sans-serif">
+  </g>
+  <rect x="0" y="672" width="1600" height="28" fill="#091536" fill-opacity="0.28" />
+</svg>

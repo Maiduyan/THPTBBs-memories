@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-label="Ảnh minh hoạ khu vực THPT Bắc Bình">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b45309" />
+      <stop offset="55%" stop-color="#451a03" />
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0.9" />
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="18%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="lines" width="64" height="64" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="64" stroke="#ffffff" stroke-opacity="0.055" stroke-width="2" />
+    </pattern>
+  </defs>
+  <rect width="1600" height="700" fill="url(#bg)" />
+  <rect width="1600" height="700" fill="url(#lines)" />
+  <rect width="1600" height="700" fill="url(#glow)" />
+  <circle cx="1330" cy="120" r="220" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="1430" cy="250" r="320" fill="#ffffff" fill-opacity="0.04" />
+  <g transform="translate(1120 370) scale(1.15)">
+    <g opacity="0.55" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-74 -74 L-64 20 C-58 62, -30 86, 0 86 C30 86, 58 62, 64 20 L74 -74 Z" fill="rgba(255,255,255,0.14)" />
+      <path d="M72 -40 C118 -56, 138 -14, 116 24 C102 48, 88 54, 76 50" />
+      <path d="M-86 -74 L86 -74" />
+      <path d="M0 88 L0 130 M-58 130 L58 130" />
+      <path d="M-30 -30 L-16 10 L22 -34" stroke-width="10" />
+    </g></g>
+  <g font-family="'Be Vietnam Pro', 'Segoe UI', Arial, sans-serif">
+  </g>
+  <rect x="0" y="672" width="1600" height="28" fill="#091536" fill-opacity="0.28" />
+</svg>

@@ -1,0 +1,428 @@
+{
+  "map_name": "Trường THPT BB",
+  "image_dimensions": {
+    "width": 1376,
+    "height": 768
+  },
+  "total_zones": 19,
+  "zones": [
+    {
+      "id": "san_khau",
+      "name": "Sân khấu",
+      "bbox": {
+        "x": 601,
+        "y": 44,
+        "width": 233,
+        "height": 74,
+        "x_max": 834,
+        "y_max": 118
+      },
+      "center": {
+        "x": 718,
+        "y": 81
+      },
+      "normalized_1000": {
+        "x_min": 437,
+        "y_min": 57,
+        "x_max": 606,
+        "y_max": 154
+      }
+    },
+    {
+      "id": "san_SH",
+      "name": "Sinh Hoạt",
+      "bbox": {
+        "x": 601,
+        "y": 118,
+        "width": 233,
+        "height": 130,
+        "x_max": 834,
+        "y_max": 248
+      },
+      "center": {
+        "x": 718,
+        "y": 183
+      },
+      "normalized_1000": {
+        "x_min": 437,
+        "y_min": 154,
+        "x_max": 606,
+        "y_max": 323
+      }
+    },
+    {
+      "id": "can_tin",
+      "name": "Căn tin",
+      "bbox": {
+        "x": 17,
+        "y": 27,
+        "width": 81,
+        "height": 190,
+        "x_max": 98,
+        "y_max": 217
+      },
+      "center": {
+        "x": 58,
+        "y": 122
+      },
+      "normalized_1000": {
+        "x_min": 12,
+        "y_min": 35,
+        "x_max": 71,
+        "y_max": 282
+      }
+    },
+    {
+      "id": "day_lop_hoc_toa_a",
+      "name": "Dãy lớp học Toà A",
+      "bbox": {
+        "x": 142,
+        "y": 27,
+        "width": 403,
+        "height": 151,
+        "x_max": 545,
+        "y_max": 178
+      },
+      "center": {
+        "x": 344,
+        "y": 102
+      },
+      "normalized_1000": {
+        "x_min": 103,
+        "y_min": 35,
+        "x_max": 396,
+        "y_max": 232
+      }
+    },
+    {
+      "id": "day_lop_hoc_toa_b",
+      "name": "Dãy lớp học Toà B",
+      "bbox": {
+        "x": 871,
+        "y": 27,
+        "width": 453,
+        "height": 151,
+        "x_max": 1324,
+        "y_max": 178
+      },
+      "center": {
+        "x": 1098,
+        "y": 102
+      },
+      "normalized_1000": {
+        "x_min": 633,
+        "y_min": 35,
+        "x_max": 962,
+        "y_max": 232
+      }
+    },
+    {
+      "id": "bang_vinh_danh_thong_bao",
+      "name": "Bảng vinh danh & thông báo",
+      "bbox": {
+        "x": 383,
+        "y": 182,
+        "width": 134,
+        "height": 96,
+        "x_max": 517,
+        "y_max": 278
+      },
+      "center": {
+        "x": 450,
+        "y": 230
+      },
+      "normalized_1000": {
+        "x_min": 278,
+        "y_min": 237,
+        "x_max": 376,
+        "y_max": 362
+      }
+    },
+    {
+      "id": "ban_ghe_da",
+      "name": "Bàn ghế đá",
+      "bbox": {
+        "x": 201,
+        "y": 273,
+        "width": 74,
+        "height": 64,
+        "x_max": 275,
+        "y_max": 337
+      },
+      "center": {
+        "x": 238,
+        "y": 305
+      },
+      "normalized_1000": {
+        "x_min": 146,
+        "y_min": 355,
+        "x_max": 200,
+        "y_max": 439
+      }
+    },
+    {
+      "id": "cot_co",
+      "name": "Cột cờ",
+      "bbox": {
+        "x": 625,
+        "y": 223,
+        "width": 122,
+        "height": 139,
+        "x_max": 747,
+        "y_max": 362
+      },
+      "center": {
+        "x": 686,
+        "y": 292
+      },
+      "normalized_1000": {
+        "x_min": 454,
+        "y_min": 290,
+        "x_max": 543,
+        "y_max": 471
+      }
+    },
+    {
+      "id": "xich_du",
+      "name": "Xích đu",
+      "bbox": {
+        "x": 944,
+        "y": 311,
+        "width": 36,
+        "height": 71,
+        "x_max": 980,
+        "y_max": 382
+      },
+      "center": {
+        "x": 962,
+        "y": 346
+      },
+      "normalized_1000": {
+        "x_min": 686,
+        "y_min": 405,
+        "x_max": 712,
+        "y_max": 498
+      }
+    },
+    {
+      "id": "day_chuc_nang",
+      "name": "Dãy Chức Năng",
+      "bbox": {
+        "x": 84,
+        "y": 250,
+        "width": 138,
+        "height": 315,
+        "x_max": 222,
+        "y_max": 565
+      },
+      "center": {
+        "x": 153,
+        "y": 408
+      },
+      "normalized_1000": {
+        "x_min": 61,
+        "y_min": 325,
+        "x_max": 161,
+        "y_max": 736
+      }
+    },
+    {
+      "id": "day_hieu_bo",
+      "name": "Dãy hiệu Bộ",
+      "bbox": {
+        "x": 1205,
+        "y": 205,
+        "width": 138,
+        "height": 360,
+        "x_max": 1343,
+        "y_max": 565
+      },
+      "center": {
+        "x": 1274,
+        "y": 385
+      },
+      "normalized_1000": {
+        "x_min": 876,
+        "y_min": 267,
+        "x_max": 976,
+        "y_max": 736
+      }
+    },
+    {
+      "id": "hang_cay_trai",
+      "name": "Hàng cây(trái)",
+      "bbox": {
+        "x": 601,
+        "y": 394,
+        "width": 40,
+        "height": 163,
+        "x_max": 641,
+        "y_max": 557
+      },
+      "center": {
+        "x": 621,
+        "y": 476
+      },
+      "normalized_1000": {
+        "x_min": 437,
+        "y_min": 513,
+        "x_max": 466,
+        "y_max": 725
+      }
+    },
+    {
+      "id": "hang_cay_phai",
+      "name": "Hàng cây (phải)",
+      "bbox": {
+        "x": 733,
+        "y": 394,
+        "width": 40,
+        "height": 163,
+        "x_max": 773,
+        "y_max": 557
+      },
+      "center": {
+        "x": 753,
+        "y": 476
+      },
+      "normalized_1000": {
+        "x_min": 533,
+        "y_min": 513,
+        "x_max": 562,
+        "y_max": 725
+      }
+    },
+    {
+      "id": "bang_danh_nhan_trai",
+      "name": "Bảng danh nhân (trái)",
+      "bbox": {
+        "x": 579,
+        "y": 527,
+        "width": 75,
+        "height": 49,
+        "x_max": 654,
+        "y_max": 576
+      },
+      "center": {
+        "x": 616,
+        "y": 552
+      },
+      "normalized_1000": {
+        "x_min": 421,
+        "y_min": 686,
+        "x_max": 475,
+        "y_max": 750
+      }
+    },
+    {
+      "id": "bang_danh_nhan_phai",
+      "name": "Bảng danh nhân (phải)",
+      "bbox": {
+        "x": 780,
+        "y": 527,
+        "width": 74,
+        "height": 49,
+        "x_max": 854,
+        "y_max": 576
+      },
+      "center": {
+        "x": 817,
+        "y": 552
+      },
+      "normalized_1000": {
+        "x_min": 567,
+        "y_min": 686,
+        "x_max": 621,
+        "y_max": 750
+      }
+    },
+    {
+      "id": "san_bong_chuyen",
+      "name": "Sân bóng chuyền",
+      "bbox": {
+        "x": 890,
+        "y": 386,
+        "width": 209,
+        "height": 149,
+        "x_max": 1099,
+        "y_max": 535
+      },
+      "center": {
+        "x": 994,
+        "y": 460
+      },
+      "normalized_1000": {
+        "x_min": 647,
+        "y_min": 502,
+        "x_max": 799,
+        "y_max": 697
+      }
+    },
+    {
+      "id": "nha_xe_hs",
+      "name": "Nhà xe hs",
+      "bbox": {
+        "x": 37,
+        "y": 594,
+        "width": 256,
+        "height": 99,
+        "x_max": 293,
+        "y_max": 693
+      },
+      "center": {
+        "x": 165,
+        "y": 644
+      },
+      "normalized_1000": {
+        "x_min": 27,
+        "y_min": 774,
+        "x_max": 213,
+        "y_max": 902
+      }
+    },
+    {
+      "id": "nha_xe_gv",
+      "name": "Nhà xe gv",
+      "bbox": {
+        "x": 1088,
+        "y": 594,
+        "width": 256,
+        "height": 99,
+        "x_max": 1344,
+        "y_max": 693
+      },
+      "center": {
+        "x": 1216,
+        "y": 644
+      },
+      "normalized_1000": {
+        "x_min": 791,
+        "y_min": 774,
+        "x_max": 977,
+        "y_max": 902
+      }
+    },
+    {
+      "id": "cong_truong",
+      "name": "Cổng Trường (Trường THPT BB)",
+      "bbox": {
+        "x": 579,
+        "y": 609,
+        "width": 229,
+        "height": 155,
+        "x_max": 808,
+        "y_max": 764
+      },
+      "center": {
+        "x": 694,
+        "y": 686
+      },
+      "normalized_1000": {
+        "x_min": 421,
+        "y_min": 793,
+        "x_max": 587,
+        "y_max": 995
+      }
+    }
+  ]
+}
